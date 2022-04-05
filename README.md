@@ -2,4 +2,4 @@
 
 背景图效果实现：安装ClaudialDE插件。
 效果预览：
-![image](https://user-images.githubusercontent.com/33830248/161863334-96af00b0-7ec5-4d9b-986c-137937aa8c44.png)
+![image](https://user-images.githubusercontent.com/33830248/161864428-32237330-3ca0-4d8c-8d07-a33e3a519fb0.png)
